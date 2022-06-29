@@ -1,6 +1,6 @@
 #====================================================================================================================================
 #
-#          FILE: rename1.sh
+#          FILE: rename1.py
 # 
 # REQUIREMENTS: Put this script in the same directory with all files you want to rename 
 # CREATED: 25-04-2022 
