@@ -1,0 +1,7 @@
+ system has been devised by the International Union of Pure and Applied Chemistry (IUPAC, usually pronounced eye-you-pack) for naming organic compounds. 
+While the IUPAC system is convenient for naming relatively small, simple organic compounds, it is not generally used in the naming of biomolecules, which tend to be quite large and complex. 
+It is, however, a good idea (even for biologists) to become familiar with the basic structure of the IUPAC system, and be able to draw simple structures based on IUPAC names.
+Naming an organic compound usually begins with identify what is referred to as the 'parent chain', which is the longest straight chain of carbon atoms.
+ We’ll start with the simplest straight chain alkane structures. 
+CH4 is called methane, and C2H6 ethane. 
+The table below continues with the names of longer straight-chain alkanes: be sure to commit these to memory, as they are the basis for the rest of the IUPAC nomenclature system (and are widely used in naming biomolecules as well).
